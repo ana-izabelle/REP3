@@ -6,3 +6,4 @@ Cansada é o feminino de cansado. O mesmo que: velha, exausta, adinâmica, alque
 #Salvando modificações no Git
 comando git push
 comando git poull
+comando git fetch
